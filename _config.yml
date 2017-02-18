@@ -25,7 +25,7 @@ github_username:  phpbc-wr
 
 # Build settings
 markdown: kramdown
-theme: cayman-blog
+theme: minima
 gems:
   - jekyll-feed
 exclude:
